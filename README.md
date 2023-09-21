@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # EasyTable
 
 [![Gem Version](https://badge.fury.io/rb/easy_table.svg)](https://badge.fury.io/rb/easy_table)
