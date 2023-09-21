@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EasyTable
 
 [![Gem Version](https://badge.fury.io/rb/easy_table.svg)](https://badge.fury.io/rb/easy_table)
@@ -156,3 +157,6 @@ You can also explicitly set column header passing it as a second argument to ```
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+# easy_table
+>>>>>>> b6302b2306c637f48a3891bf73a9a6b9b296c6a1
